@@ -31,7 +31,7 @@ CTextUI::CTextUI() {
         {"PANEL_LOAD_ERROR", "An error occurred while trying to load required files. Game can not continue."},
 
         {"PANEL_HELP_TEXT", "Controls\n\nArrow keys - Moving around the map\n[M]     -    Return to Map  \n  "
-            "[B]     -  Open Buildings menu\n[Space]   -      Next day       \n[F10]    -     Pause menu     "},
+            "[B]     -  Open Buildings menu\n[Space]   -      Next day       \n[F9]     -     Pause menu     "},
 
         {"INFO_CONTROLS_MAP", "Press B to open Building menu, [Space] to end the day, [F9] to pause the game."},
         {"INFO_CONTROLS_BUILDING", "Use arrow keys to choose, press [Enter] to build, M to return to Map."},

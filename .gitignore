@@ -34,5 +34,7 @@
 # Custom
 prohlaseni.txt
 valgrind.txt
-examples/savegame
+resources/savegame
 game
+jesinmat
+doc

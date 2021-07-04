@@ -5,8 +5,8 @@
 #include <algorithm>
 #include "fileio.hpp"
 
-std::string CFileIO::saveFolder = "examples/savegame/";
-std::string CFileIO::dataFolder = "examples/data/";
+std::string CFileIO::saveFolder = "resources/savegame/";
+std::string CFileIO::dataFolder = "resources/data/";
 
 CFileIO::CFileIO() {
 }
