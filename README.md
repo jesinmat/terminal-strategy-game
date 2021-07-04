@@ -13,11 +13,11 @@ The goal of this game is to survive on a hostile planet after a sudden crash. Bu
 
 ## Screenshots
 
-![Main menu](img/menu.png "Main menu")
+![Main menu](img/menu.PNG "Main menu")
 
-![First day](img/start.png "First day")
+![First day](img/start.PNG "First day")
 
-![Gameplay](img/lategame.png "Gameplay")
+![Gameplay](img/lategame.PNG "Gameplay")
 
 ## Compiling
 
