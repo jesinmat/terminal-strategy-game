@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Custom
+prohlaseni.txt
+valgrind.txt
+examples/savegame
+game

@@ -1,0 +1,32 @@
+Struktura souboru "building" je popsána přímo v daném souboru.
+
+Struktura savegame souboru:
+
+Day
+Concrete
+Metal
+People
+Days left to get rescued
+Number of buildings
+Building1 ID
+Building1 Workers
+Building1 Position X
+Building1 Position Y
+Building2 ID
+...
+Tile1 X
+Tile1 Y
+Tile1 type
+Tile2 X
+...
+
+
+Struktura "action" souboru:
+
+Day2 new workers
+metal income
+power drop in %
+chance to destroy a building in %
+event name (only set when power drop or chance to destroy are > 0%)
+Day3 new workers
+...

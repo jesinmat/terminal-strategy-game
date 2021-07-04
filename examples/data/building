@@ -1,0 +1,78 @@
+Advanced Power Generator
+Generates higher amount of power.
+A           # Symbol
+3           # Width
+3           # Height
+8           # Capacity
+0           # Power consumption
+25          # Power income
+0           # Concrete income
+0           # Metal income
+25          # Concrete cost
+10          # Metal cost
+0           # Habitable
+Metal Factory
+Creates Metal from Dust particles using high amounts of power.
+M           # Symbol
+3           # Width
+3           # Height
+10          # Capacity
+15          # Power consumption
+0           # Power income
+0           # Concrete income
+10          # Metal income
+30          # Concrete cost
+5           # Metal cost
+0           # Habitable
+Radio Tower
+Used to call for help. Only one can be built.
+R           # Symbol
+4           # Width
+4           # Height
+1           # Capacity
+30          # Power consumption
+0           # Power income
+0           # Concrete income
+0           # Metal income
+100         # Concrete cost
+100         # Metal cost
+0           # Habitable
+Cubicle
+Place where people live. People without cubicles will die over night.
+C           # Symbol
+2           # Width
+2           # Height
+2           # Capacity
+2           # Power consumption
+0           # Power income
+0           # Concrete income
+0           # Metal income
+5           # Concrete cost
+0           # Metal cost
+1           # Habitable
+Basic Power Generator
+Generates low amount of power.
+B           # Symbol
+3           # Width
+2           # Height
+4           # Capacity
+0           # Power consumption
+10          # Power income
+0           # Concrete income
+0           # Metal income
+12          # Concrete cost
+3           # Metal cost
+0           # Habitable
+Concrete Extractor
+Extracts Concrete from Regolith deposits.
+E           # Symbol
+2           # Width
+2           # Height
+5           # Capacity
+10          # Power consumption
+0           # Power income
+10          # Concrete income
+0           # Metal income
+10          # Concrete cost
+5           # Metal cost
+0           # Habitable
