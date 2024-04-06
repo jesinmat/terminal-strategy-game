@@ -20,6 +20,7 @@ compile: $(USERNAME)
 $(USERNAME): $(OBJ_FILES)
 	@echo "Linking files..."
 	@$(CC) $(CFLAGS) $^ -o $(USERNAME) $(LIBS)
+	@mkdir -p resources/savegame
 	@echo "Compilation successful."
 
 $(OBJ_FOLDER):

@@ -1,6 +1,7 @@
 #include <vector>
 #include <cmath>
 #include <list>
+#include <stdexcept>
 
 #include "worldMap.hpp"
 #include "controls.hpp"
